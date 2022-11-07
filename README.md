@@ -1,4 +1,4 @@
-# Solutions to Exercises from the [Working with  Working with World Development Indicators](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Working-with-WDI.ipynb) notebook.
+# Solutions to Exercises from the [Working with World Development Indicators](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Working-with-WDI.ipynb) notebook.
 
 ## Description
 [Original Author: Working-with-WDI.ipynb](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Working-with-WDI.ipynb)
